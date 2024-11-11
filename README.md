@@ -1,6 +1,6 @@
 # Abhijith C D - Personal Portfolio
 
-Welcome to my personal portfolio website! This project showcases my skills and experiences as an electronics engineer, programmer, and web developer. It's a single-page responsive website built with HTML and CSS.
+Welcome to my personal portfolio website! This project showcases my skills and experiences as an electronics engineer, programmer, and web developer. It's a single-page non responsive website built with HTML and CSS.
 
 ## Project Overview
 
