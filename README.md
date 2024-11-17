@@ -8,7 +8,7 @@ This portfolio highlights:
 - **Introduction**: Briefly introduces myself and my background.
 - **Skills**: Showcases my skills in data visualization, SQL, Power BI, and web development.
 - **Contact Section**: Provides a way for people to reach out for collaboration or inquiries.
-- **Social Links**: Links to my LinkedIn, Twitter, and personal website.
+- **Social Links**: Links to my LinkedIn, Twitter.
 
 ## Demo
 
